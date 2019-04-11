@@ -1,6 +1,5 @@
 class Sbteam < ApplicationRecord
 
-add associations
-
+has_many :users
 
 end
